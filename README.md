@@ -10,10 +10,10 @@ Follow these guidelines when using or referring to the HSReplay.net brand.
 
 - **Do** refer to the brand using exactly **HSReplay.net**
 - **Don't** pluralize the brand ("HSReplays", "HSReplays.net")
-- **Don't** change the brand's capitalization ("Hsreplay.net", "HSREPLAY.NET")
 - **Don't** drop the .net suffix or replace it with a different domain ("HSReplay", "HSReplay.com")
+- **Don't** change the brand's capitalization ("Hsreplay.net", "HSREPLAY.NET")
 - **Don't** expand the HS prefix of the brand ("HearthstoneReplays.net", "HearthSimReplays.net")
-- **Don't** include the brand in another name ("HSReplay.net")
+- **Don't** include the brand in another name
 
 ## Colors
 
