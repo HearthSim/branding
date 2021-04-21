@@ -9,7 +9,7 @@ Follow these guidelines when using or referring to the Untapped.gg brand.
 ### Naming
 
 - **Do** refer to the brand using exactly **Untapped.gg**
-- **Don't** drop the .gg suffix or replace it with a different domain ("Untapped", "Untapped.gg")
+- **Don't** drop the .gg suffix or replace it with a different domain ("Untapped", "Untapped.com")
 - **Don't** change the brand's capitalization ("untapped.gg", "UNTAPPED.GG")
 - **Don't** include the brand in another name
 
